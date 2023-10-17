@@ -1,0 +1,8 @@
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\Oleksandr.Babilia.RobotChallandge\bin\Debug\Oleksandr.Babilia.RobotChallandge.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\Oleksandr.Babilia.RobotChallandge\bin\Debug\Oleksandr.Babilia.RobotChallandge.pdb
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\Oleksandr.Babilia.RobotChallandge\bin\Debug\Robot.Common.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\Oleksandr.Babilia.RobotChallandge\obj\Debug\Oleksandr.Babilia.RobotChallandge.csproj.AssemblyReference.cache
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\Oleksandr.Babilia.RobotChallandge\obj\Debug\Oleksandr.Babilia.RobotChallandge.csproj.CoreCompileInputs.cache
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\Oleksandr.Babilia.RobotChallandge\obj\Debug\Oleksandr.Babilia.RobotChallandge.csproj.CopyComplete
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\Oleksandr.Babilia.RobotChallandge\obj\Debug\Oleksandr.Babilia.RobotChallandge.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\Oleksandr.Babilia.RobotChallandge\obj\Debug\Oleksandr.Babilia.RobotChallandge.pdb

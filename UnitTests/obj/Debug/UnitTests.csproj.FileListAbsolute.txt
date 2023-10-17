@@ -1,0 +1,17 @@
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\Oleksandr.Babilia.RobotChallandge.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\Robot.Common.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\Oleksandr.Babilia.RobotChallandge.pdb
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\obabilia\source\repos\Oleksandr.Babilia.RobotChallandge\UnitTests\obj\Debug\UnitTests.pdb
